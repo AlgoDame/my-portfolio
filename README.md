@@ -7,10 +7,17 @@ Big thanks to [Konstantin Münster](https://github.com/konstantinmuenster/gatsby
 
 ---
 
+## Node version
+
+```sh
+>= 18
+```
+---
 ## How to run locally
 
    ```sh
    cd portfolio-minimal
+   npm install
    npx gatsby develop
    ```
 
