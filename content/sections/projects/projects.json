@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "",
+      "title": "Music Box",
+      "description": "Music Box is a progressive and mobile responsive music player where users can curate favourite albums and songs, listening history, and can create a private playlist.",
+      "tags": ["NodeJS", "Typescript", "React", "MongoDB"],
+      "image": {
+        "src": "../../images/music-box.png",
+        "alt": "Music box project",
+        "linkTo": "https://themusicbox.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://themusicbox.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "UNO",
+      "description": "UNO is a room leasing and booking service where users can either be a guest or a host. Users can browse through to either book an apartment or put an apartment up for lease.",
+      "tags": ["React", "Typescript", "Firestore", "NodeJS"],
+      "image": {
+        "src": "../../images/uno.png",
+        "alt": "UNO lodging project",
+        "linkTo": "https://unolodging.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/AlgoDame/Uno-lodging-react-app"
+        },
+        {
+          "type": "external",
+          "url": "https://unolodging.vercel.app/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/AlgoDame"
+  }
+}

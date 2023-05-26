@@ -1,0 +1,13 @@
+{
+  "name": "Contact",
+  "email": "chiamakaojiyi@gmail.com",
+  "description": "Need a software developer for a project? Reach out to me and let's discuss how I can bring value to your business using my skills.",
+  "image": {
+    "src": "../../images/email-logo.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Devto", "Mail"],
+    "showIcons": true
+  }
+}

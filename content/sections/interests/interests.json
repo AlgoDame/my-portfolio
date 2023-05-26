@@ -1,0 +1,86 @@
+{
+  "interests": [
+    {
+      "label": "NodeJS",
+      "image": {
+        "src": "../../images/nodejs-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Typescript",
+      "image": {
+        "src": "../../images/ts-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Javascript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NestJS",
+      "image": {
+        "src": "../../images/nestjs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "ExpressJS",
+      "image": {
+        "src": "../../images/expressjs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MongoDB",
+      "image": {
+        "src": "../../images/mongodb.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "../../images/postgres.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "RabbitMQ",
+      "image": {
+        "src": "../../images/rabbitmq.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/docker.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Jest",
+      "image": {
+        "src": "../../images/jest.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
